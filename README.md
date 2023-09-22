@@ -13,4 +13,3 @@ Sagnik Saha
 
 Requirements: Arduino IDE Node MCU NOx,CO,CO2 sensors Temperature and Humidity Sensor Adafruit ADS 1X15
 
-Observation: AQM SERVER LINK:http://aqm-test.herokuapp.com/
